@@ -1,5 +1,5 @@
 ### $${\color{red}Travail \space en \space équipe \space avec :}$$
-$${\color{lightgreen}Giromagny \space Alexis / Pham \space Guillaume / Axel \space Sevenet / Valentin \space Chorro}$$
+$${\color{lightgreen}Colleta \space Quentin / Pham \space Guillaume / Axel \space Sevenet / Valentin \space Chorro}$$
 # Atelier 2 - Liaison SGBDR & Elasticsearch
 
 Ce guide détaille les étapes pour mettre en place un environnement où Elasticsearch est utilisé comme moteur d'indexation devant une base de données relationnelle. Cela permettra de faciliter la mise en œuvre de services comme un moteur de recherche de produits à partir des données stockées dans la base de données relationnelle.
